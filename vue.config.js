@@ -3,7 +3,7 @@ module.exports = {
   publicPath:"/",
   devServer:{},
   configureWebpack:{
-    relove:{
+    resolve:{
       alias:{
         'assets':'@/assets',
         'components':'@/components',

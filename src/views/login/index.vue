@@ -32,9 +32,6 @@
   <div class="login_btn_warp">
     <van-button class="login_btn" type="info"  block>登录</van-button>
   </div>
-  <div class="login_btn_warp">
-    <van-button class="login_btn" type="info"  block>登录</van-button>
-  </div>
   <!--  /登录按钮-->
 </div>
 </template>
